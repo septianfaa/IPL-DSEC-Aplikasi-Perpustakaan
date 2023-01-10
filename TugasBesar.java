@@ -9,7 +9,7 @@ public class TugasBesar {
     static int peminjam[][] = new int[50][2];
     static int banyak;
     static int jmlpinjam;
-    // static int
+   
     static int jmlmhs;
 
     public static void main(String[] args) {
